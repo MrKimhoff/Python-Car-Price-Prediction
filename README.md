@@ -1,4 +1,4 @@
-# Used Car price Prediction
+# Used Car Price Prediction
 
 This project was a requirement for one of my classes during my Master's Data Science program at Bellevue Univeristy.
 
