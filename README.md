@@ -17,4 +17,7 @@ The primary purpose of this project is to train a predictive analytics model utl
 * DataSpell (Data Science IDE)
 
 ## Project Description
+**UPDATE 23 July 2025**
+Continued analysis project using open-source dataset from Kaggle.com [Dataset Link](https://www.kaggle.com/datasets/jessemucheke/car-dataset?resource=download)
+
 The data for this project was collected from University of California-Irvine's Machine Learning Repository [Automobile Data Set](https://archive.ics.uci.edu/ml/datasets/automobile). The data contained just over 200 observations and 25 features and one target variable, `price`. The primary programming language used in this project is Python which provides access to a plethora of machine learning tools. There were some minor data cleansing and pre-processing steps required before the data was in a format fit to model training. The models that were chosen to be trained included a simple linear regression model, a decision tree regressor, a k-neighbors regressor, as well as a random forest regressor. Once the models had been fitted to the training data, they were validated using a holdout validation set of data. Then, using the mean-squared-error and coefficient of determination (r2) performance metrics, the predictive power of the models were assessed. Within the repo are detailed write-ups and a presentation that summarizes my findings and project methodology.
